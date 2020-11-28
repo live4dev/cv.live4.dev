@@ -1,0 +1,37 @@
+html,
+body,
+pre,
+code,
+kbd,
+samp {
+  font-family: "Press Start 2P";
+}
+.container {
+  margin-top: 20px;
+}
+p.is-small {
+  font-size: 90%;
+}
+.coreteam-members {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.member-card .avatar {
+  float: left;
+  margin-right: 1.5rem;
+}
+.member-card .avatar > img {
+  display: block;
+  width: 80px;
+  height: 80px;
+}
+
+.member-card > .profile > .name {
+  font-size: 20px;
+}
+.cat {
+  position: fixed;
+  bottom: 0;
+  right: 20px;
+}
