@@ -1,6 +1,4 @@
 # Welcome letter
-
-# Welcome letter
 Hi, my name is Danil. I'm a developer, team lead, husband, father and organizer of the python community in St. Petersburg. In my work, I try to be a player-coach. I believe that the most important and useful for business solutions are at the junction of different domains.
 
 For the last 7 years, I have been working as a researcher-developer in satellite oceanography, a full stack web developer, a senior web developer, and a web development team lead.
